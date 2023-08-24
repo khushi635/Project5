@@ -1,2 +1,2 @@
 This is a demo project
-created by Khushbu
+created by Khushbu Kumari
